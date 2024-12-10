@@ -17,7 +17,7 @@
 
 - 파인튜닝된 KoBERT 모델(beomi/kcbert-base)을 활용하여 게시물의 내용을 분석합니다.
 - 높은 정확도로 마약 게시물을 탐지합니다.
-
+KoBERT는 한국어 자연어 처리(NLP)를 위한 BERT 기반의 모델입니다. BERT(Bidirectional Encoder Representations from Transformers)는 구글에서 발표한 언어 모델로, 문맥을 양방향으로 이해할 수 있는 특징을 가지고 있습니다. KoBERT는 이 BERT 모델을 한국어 텍스트에 특화시킨 모델입니다.
 ## 설치 가이드
 
 아래 명령어를 통해 필요한 패키지를 설치하세요.
